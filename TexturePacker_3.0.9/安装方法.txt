@@ -1,0 +1,2 @@
+1.安装TexturePacker-3.0.9-win32.msi
+2.TexturePackerGUI_crack.exe放在安装目录,以后打开这个是用,千万不要打开软件的.exe
